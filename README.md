@@ -8,8 +8,8 @@ Netflix Eureka Service Registry providing dynamic service discovery for MediCare
 |---|---|
 | Student Name | Matheesha Abiman |
 | Student Number | 241722050 |
-| Slack Handle | [YOUR SLACK HANDLE - OPTIONAL] |
-| GCP Project ID | `[YOUR GCP PROJECT ID]` |
+| Slack Handle | Matheesha Abiman |
+| GCP Project ID | medicare-healthsync-project |
 
 ## Project Description
 
